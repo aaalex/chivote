@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  external_id: MyString
+  name: MyString
+  description: MyString
+  jurisdiction_id: 
+  term_length: MyString
+  term_limit: MyString
+
+two:
+  external_id: MyString
+  name: MyString
+  description: MyString
+  jurisdiction_id: 
+  term_length: MyString
+  term_limit: MyString

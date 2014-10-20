@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  external_id: MyString
+  first_name: MyString
+  last_name: MyString
+  office_id: 
+  phone: MyString
+  email: MyString
+  term_start_date: 2014-10-13 23:11:11
+  term_end_date: 2014-10-13 23:11:11
+
+two:
+  external_id: MyString
+  first_name: MyString
+  last_name: MyString
+  office_id: 
+  phone: MyString
+  email: MyString
+  term_start_date: 2014-10-13 23:11:11
+  term_end_date: 2014-10-13 23:11:11

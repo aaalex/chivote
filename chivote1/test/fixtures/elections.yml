@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  external_id: MyString
+  type: 
+  date: 2014-10-13 23:07:50
+  jurisdiction_id: 
+
+two:
+  external_id: MyString
+  type: 
+  date: 2014-10-13 23:07:50
+  jurisdiction_id: 
